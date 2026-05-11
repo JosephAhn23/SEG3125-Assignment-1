@@ -41,8 +41,8 @@ Examples people use: https://something.netlify.app or https://something.vercel.a
 
 5. Link to Bootstrap / source code
 
-Public repository (replace with your GitHub or GitLab URL):
-https://github.com/[YOUR-USERNAME]/[YOUR-REPO-NAME]
+Public repository:
+https://github.com/JosephAhn23/SEG3125-Assignment-1
 
 
 6. Design choices and visual communication
